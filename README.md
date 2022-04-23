@@ -8,6 +8,9 @@
 
 ### Criar banco de dados:
     ```
-     CREATE DATABASE uvv WITH OWNER = {seu usuario } TEMPLATE = template0 ENCODING = UTF8 LC_COLLATE = 'pt_BR.UTF-8' ALLOW_CONNECTIONS=true;
+        CREATE DATABASE uvv WITH OWNER = {seu usuario } TEMPLATE = template0 ENCODING = UTF8 LC_COLLATE = 'pt_BR.UTF-8' ALLOW_CONNECTIONS=true;
     ```
-
+### Cria o schema do elmasri:
+    ```
+        CREATE SCHEME elmasri;
+    ```
