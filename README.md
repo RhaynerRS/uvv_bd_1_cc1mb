@@ -18,5 +18,5 @@
     ```
 ### Alter table:
     ```
-        ALTER USER {seu usuario } SET SEARCH_PATH TO elmasri, "$user", public;
+    ALTER USER {seu usuario } SET SEARCH_PATH TO elmasri, "$user", public;
     ```
