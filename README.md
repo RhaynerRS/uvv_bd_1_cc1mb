@@ -1,7 +1,5 @@
 # Trabalho Design e Desenvolvimento de Banco de Dados 
-<br />
 ## Aluno: Rhayner Rossmann de Souza
-<br />
 ### Diagrama SQL Power Architect
 
 <p align="center"><img src="https://i.imgur.com/sKidXYDl.png"></p>
