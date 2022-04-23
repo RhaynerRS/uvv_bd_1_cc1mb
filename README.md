@@ -1,4 +1,5 @@
-# uvv_bd_1_cc1mb
+# Trabalho Design e Desenvolvimento de Banco de Dados 
+## Aluno: Rhayner Rossmann de Souza
 
 <p align="center"><img src="https://i.imgur.com/sKidXYDl.png"></p>
 
