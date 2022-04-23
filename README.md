@@ -14,3 +14,11 @@
     ```
         CREATE SCHEME elmasri;
     ```
+### Define o SEARCH_PATH para o schema do elmasri:
+    ```
+        SET SEARCH_PATH TO elmasri, "$user", public;
+    ```
+### Alter table:
+    ```
+        ALTER USER {seu usuario } SET SEARCH_PATH TO elmasri, "$user", public;
+    ```
