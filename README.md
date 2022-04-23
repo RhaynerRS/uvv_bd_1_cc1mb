@@ -1,6 +1,11 @@
 # uvv_bd_1_cc1mb
 
-### Sub divisão das pastas:
-  - PostgreSQL
-  - MariaDB/MySQL
-  - Oracle
+<p align="center"><img src="https://i.imgur.com/sKidXYDl.png"></p>
+
+### Criar Banco de Dados:
+  ```
+    CREATE DATABASE uvv WITH OWNER = {seu usuario } TEMPLATE = template0 ENCODING = UTF8 LC_COLLATE = 'pt_BR.UTF-8' ALLOW_CONNECTIONS=true;
+    CREATE SCHEME elmasri;
+    SET SEARCH_PATH TO elmasri, "$user", public;
+    ALTER USER {seu usuario } SET SEARCH_PATH TO elmasri, "$user", public;
+  ```
