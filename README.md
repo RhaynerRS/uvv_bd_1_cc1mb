@@ -7,7 +7,7 @@
 <p align="center"><img src="https://i.imgur.com/sKidXYDl.png"></p>
 
 ### Comandos:
-    <p>Criar banco de dados</p>
+<p>Criar banco de dados: </p>
     ```
      CREATE DATABASE uvv WITH OWNER = {seu usuario } TEMPLATE = template0 ENCODING = UTF8 LC_COLLATE = 'pt_BR.UTF-8' ALLOW_CONNECTIONS=true;
     ```
